@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tournament-generator/static/css/main.c28292a0.chunk.css",
+    "main.js": "/tournament-generator/static/js/main.f9a3c5a9.chunk.js",
+    "main.js.map": "/tournament-generator/static/js/main.f9a3c5a9.chunk.js.map",
+    "runtime-main.js": "/tournament-generator/static/js/runtime-main.6c5395b1.js",
+    "runtime-main.js.map": "/tournament-generator/static/js/runtime-main.6c5395b1.js.map",
+    "static/js/2.2056c782.chunk.js": "/tournament-generator/static/js/2.2056c782.chunk.js",
+    "static/js/2.2056c782.chunk.js.map": "/tournament-generator/static/js/2.2056c782.chunk.js.map",
+    "index.html": "/tournament-generator/index.html",
+    "precache-manifest.97695d78d1e8a8edf23061b4b4a36aeb.js": "/tournament-generator/precache-manifest.97695d78d1e8a8edf23061b4b4a36aeb.js",
+    "service-worker.js": "/tournament-generator/service-worker.js",
+    "static/css/main.c28292a0.chunk.css.map": "/tournament-generator/static/css/main.c28292a0.chunk.css.map",
+    "static/media/preloader.gif": "/tournament-generator/static/media/preloader.9eb38563.gif"
+  }
+}
