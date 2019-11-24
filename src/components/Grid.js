@@ -76,7 +76,6 @@ export class Grid extends Component {
 
     }
 
-    console.log(people_arr)
     let grid = []
 
 
